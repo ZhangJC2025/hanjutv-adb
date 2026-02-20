@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Fuck hanju1.tv's ads
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Block ads in https://hanju1.tv/
 // @author       ZhangJC
 // @match        *://hanju1.tv/*
